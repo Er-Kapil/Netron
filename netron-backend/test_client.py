@@ -3,7 +3,7 @@
 Test client to verify the Flask backend API endpoints
 """
 
-from flask import requests
+import requests
 import json
 import time
 
